@@ -9,5 +9,5 @@ for (var i = 0; i < guestList.length; i++) {
         console.log("\n\"".concat(guestList[i], "\" is unable to attend the dinner.\n__________________________________________"));
         guestList[1] = 'Blockchain Dev';
     }
-    console.log("\nDear ".concat(guestList[i], ",\nYou are invited to dinner.\nSincerely,\nPIAIC\n_________________________________________________________"));
+    console.log("\nDear ".concat(guestList[i], ",\nYou are invited to dinner.\nSincerely,\nGIAIC\n_________________________________________________________"));
 }

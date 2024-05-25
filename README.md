@@ -1,4 +1,4 @@
-# PIAIC FIRST ASSIGNMENT
+# GIAIC 45 QUESTIONS
 
 # Getting Started Exercises with TypeScript and Node.js
 

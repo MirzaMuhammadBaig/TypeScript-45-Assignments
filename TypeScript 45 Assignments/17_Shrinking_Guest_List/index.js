@@ -9,7 +9,7 @@ for (var i = 0; i < guestList.length; i++) {
         }
     }
     if (guestList[i] != undefined) {
-        console.log("\nDear ".concat(guestList[i], ",\nYou are still invited to dinner.\nSincerely,\nPIAIC\n_____________________________________________________"));
+        console.log("\nDear ".concat(guestList[i], ",\nYou are still invited to dinner.\nSincerely,\nGIAIC\n_____________________________________________________"));
     }
 }
 guestList = [];
